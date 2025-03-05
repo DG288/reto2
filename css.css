@@ -23,7 +23,7 @@ body {
 
 .nav a {
     display: inline-block;
-    color:whitesmoke;
+    color: white;
     padding: 14px 16px;
     text-decoration: none;
 }
@@ -63,9 +63,8 @@ body {
     color: rgb(101, 234, 249);
     padding: 10px 0;
     text-align: center;
-
-
 }
+
 .header {
     display: flex;
     align-items: center;
